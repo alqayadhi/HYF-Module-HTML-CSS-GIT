@@ -4,3 +4,12 @@ In this assignment I tried to create a Digital Resume, I have searched on YouTub
 Below is the pictures of the final status of the Digital Resume
 
 ![image](https://user-images.githubusercontent.com/95438511/186487857-e2b4d3fc-4e43-42b2-a211-51763461ee8e.png)
+
+# ---------------------
+# The link in CodePen & on YouTube:
+
+Here is the The CodePen link:
+https://codepen.io/AL-QAYADHI/full/JjLVwmY
+
+Here is the YouTube link:
+![image](https://user-images.githubusercontent.com/95438511/186489472-305b369a-94c9-4fcc-ad61-c622b4452cca.png)
