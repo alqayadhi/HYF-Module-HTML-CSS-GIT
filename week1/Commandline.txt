@@ -1,65 +1,14 @@
-
-	Command line 
-
-	Git Bash:
+	# How do I create a hidden file or folder? How do I display it in the CLI?
 	
-	~ (Home directory)	
-
-	$ pwd (Print Working Directory)
-	
-	cd (change Directory)
-	----
-	acommand<argument> <argument> <argument>
-	
-	---
-	ls (List folders and files)
-	
-	Cd captures
-	cd .. (go to parent directory)
-	cd captures/
-	cd ../..
-	
-	__________________________________________
-	
-	Using Commandline Make a directory for this 
-	class add a text files to write notes and 
-	edit the text...
-	
-	How do I create a hidden file or folder? How do I display it in the CLI?
-	cd ../.. (home where we start)
-	mkdir hackyourfuture (Create a folder)
-	
-	rm -d
-	Rmove a folder	
-
-	attrib +h secretlist.xlsx
+	attrib +h secretlist.xlsx (<< this the file name >>)
 	Hide a folder
+	attrib +s +h (then the name of directory)
 	
-	code . (execute this command)
-	// code . Opens Visual Studio Code in the curent directory//
+	# How do I create multiple nested directories, like /c/Users/myusername/these/folders/are/just/for/fun?
 	
-	mv <from> <to> (Moves a file or directory or rename file)
+	mkdir the directory Name/thedirectoryname/directoryname  
 	
-	/* mv commandlines.txt commandline.txt */
-	
-	cat commandline.txt >> (Print content of a (text) file)
-
-	cp
-	(Copy a file or directory)
-	
-	rm	
-	Rmove a file or directory
-	
-	ls -a 
-	SHOW HIDDEN FILES
-	
-	touch commandlinenotes.txt 
-	Create an empty file
-
-	mv commandlinenotes.txt .commandlinenotes.txt
-	Hide the file by moving it under a new filename
-	
-	How do I append a message to a file, without a newline character, so the output would be:
+	# How do I append a message to a file, without a newline character, so the output would be:
 	$ echo -n "first message" >> hello.txt
 	$ echo -n "second message" >> hello.txt
 	
