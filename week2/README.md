@@ -1,7 +1,7 @@
 # favorit-cmd-commands.
 
 # 1. (rm) RMOVE A FILE OR  DIRECTORY:
-RM commandline is general used for deleting files, the command is written as follows: < rm > < fileName > , we can also use the **rmdir** to help us delet the empty directories.
+RM commandline is general used for deleting files, the command is written as follows: ```< rm > < fileName >``` , we can also use the **rmdir** to help us delet the empty directories.
 
 # 2. (ls) SHOW FILES/FOLDERS:
 The command line **ls** is helpful and used for showing/listing files/directories in all Linux and GITbassh/WD.
