@@ -6,6 +6,6 @@
 
 
 # 3.(mv) Moves a file or directory or rename file
-The genenral form of this Bash command is samilar to such command 
-*mv <from> <to> 
+We genenral use this command mv <from> <to> to move a file/directory/rename files, and rather deletes the existing file and creates a new file with a anew name or in another folder  
+  
 
