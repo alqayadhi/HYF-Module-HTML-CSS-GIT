@@ -1,4 +1,4 @@
-# Add bash commands that you like (at least 3) and style them as headers.
+# favorit-cmd-commands.
 
 # 1. (rm) RMOVE A FILE OR  DIRECTORY:
 RM commandline is general used for deleting files, the command is written as follows: < rm > < fileName > , we can also use the **rmdir** to help us delet the empty directories.
